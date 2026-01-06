@@ -1,0 +1,13 @@
+matplotlib
+numpy
+opencv-python-headless
+scikit_learn
+mediapipe==0.10.9
+
+streamlit
+pandas
+tensorflow==2.15.0
+streamlit_webrtc
+streamlit-pills
+protobuf==3.20.3
+python-bidi
