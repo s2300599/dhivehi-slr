@@ -11,7 +11,7 @@ It utilizes computer vision and deep learning techniques to detect hand gestures
 ## Features
 
 - **Real-time Recognition**: Detects signs from a live webcam feed.
-- **Dhivehi Translation**: Automatically translates recognized English signs into Dhivehi text.
+- **Dhivehi Translation**: Automatically translates recognized signs into Dhivehi.
 - **User Interface**: Built with Streamlit for an easy-to-use experience.
 
 ## Installation & Running
